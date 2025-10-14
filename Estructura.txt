@@ -1,0 +1,20 @@
+SmartFinance AI/
+├── 📱 DEMO FUNCIONAL (React - puedes verlo arriba ↑)
+├── 🔧 Backend (Node.js + TypeScript + Express)
+│   ├── Autenticación JWT completa
+│   ├── API RESTful con validación
+│   ├── Integración OpenAI GPT-4
+│   ├── ML Predictions (algoritmos propios)
+│   ├── Prisma ORM + PostgreSQL
+│   └── Error handling robusto
+├── 🎨 Frontend (React + TypeScript + Vite)
+│   ├── Dashboard interactivo
+│   ├── Gráficos con Recharts
+│   ├── Tailwind CSS moderno
+│   ├── Routing completo
+│   └── Estado con React Hooks
+├── 🐳 Docker Setup completo
+├── 📚 Documentación exhaustiva
+└── 🚀 Scripts de deployment
+
+TOTAL: 25+ archivos de código profesional

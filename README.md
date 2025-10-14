@@ -309,10 +309,8 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
-- Portfolio: [tuportfolio.com](https://tuportfolio.com)
+- GitHub:(https://github.com/Doku566)
+- LinkedIn:(https://www.linkedin.com/in/domingo-gonz%C3%A1lez-hernandez-73127a213/)
 
 ## 🌟 Agradecimientos
 
@@ -336,5 +334,4 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 ![Transactions](screenshots/transactions.png)
 
 ### Mobile View
-![Mobile](screenshots/mobile.png)#   s m a r t f i n a n c e - a i  
- 
+![Mobile](screenshots/mobile.png)
