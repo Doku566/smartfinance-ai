@@ -175,7 +175,7 @@ cd frontend
 npm test
 ```
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Autenticación
 
@@ -245,7 +245,7 @@ Chat con asistente IA
 }
 ```
 
-## 🎯 Características Técnicas Destacadas
+##  Características Técnicas Destacadas
 
 ### 1. **Arquitectura Clean Code**
 - Separación de responsabilidades
