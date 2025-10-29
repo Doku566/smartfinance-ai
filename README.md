@@ -1,4 +1,4 @@
-# 🚀 SmartFinance AI - Personal Finance Management Platform
+#  SmartFinance AI - Personal Finance Management Platform
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -8,29 +8,29 @@
 
 Una plataforma completa de gestión financiera personal con inteligencia artificial integrada. Este proyecto demuestra implementación full-stack moderna con funcionalidades de ML/AI reales.
 
-## ✨ Características Principales
+##  Características Principales
 
-### 🤖 Inteligencia Artificial
+###  Inteligencia Artificial
 - **Análisis Financiero con GPT-4**: Insights personalizados sobre tus finanzas
 - **Categorización Automática**: Categorización inteligente de transacciones usando NLP
 - **Predicción de Gastos**: Algoritmos ML para predecir gastos futuros
 - **Chat con IA**: Asistente conversacional para consultas financieras
 - **Detección de Anomalías**: Identificación automática de gastos inusuales
 
-### 💰 Gestión Financiera
+### Gestión Financiera
 - **Dashboard Interactivo**: Visualización en tiempo real de finanzas
 - **Gestión de Transacciones**: CRUD completo con filtros avanzados
 - **Análisis por Categorías**: Gráficos de torta y barras
 - **Tendencias Temporales**: Visualización de ingresos/gastos por mes
 - **Resúmenes Automáticos**: Balance, ingresos y gastos totales
 
-### 🎨 Interfaz de Usuario
+###  Interfaz de Usuario
 - **Diseño Moderno**: UI/UX con Tailwind CSS
 - **Responsive**: 100% adaptable a móviles y tablets
 - **Animaciones Fluidas**: Transiciones suaves
 - **Dark Mode Ready**: Preparado para modo oscuro
 
-## 🏗️ Arquitectura Técnica
+##  Arquitectura Técnica
 
 ```
 SmartFinance AI
@@ -51,7 +51,7 @@ SmartFinance AI
     └── Prisma Schema (Type-safe queries)
 ```
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Frontend
 - **React 18** - UI Library
@@ -77,7 +77,7 @@ SmartFinance AI
 - **Docker** - Containerization
 - **Docker Compose** - Multi-container orchestration
 
-## 📦 Instalación y Setup
+##  Instalación y Setup
 
 ### Prerequisitos
 ```bash
@@ -140,7 +140,7 @@ npm run dev
 
 Frontend corriendo en: `http://localhost:3000`
 
-## 🐳 Docker Setup (Recomendado)
+##  Docker Setup (Recomendado)
 
 ```bash
 # Configurar OpenAI API Key
@@ -161,7 +161,7 @@ Accede a:
 - Backend: `http://localhost:3001`
 - Database: `localhost:5432`
 
-## 🧪 Testing
+##  Testing
 
 ### Backend
 ```bash
@@ -281,7 +281,7 @@ Chat con asistente IA
 - Smooth animations
 - Responsive design
 
-## 📈 Roadmap
+##  Roadmap
 
 - [ ] Múltiples cuentas bancarias
 - [ ] Exportación a PDF/Excel
@@ -295,12 +295,12 @@ Chat con asistente IA
 
 
 
-## 👨‍💻 Autor
+##  Autor
 
 - GitHub:(https://github.com/Doku566)
 - LinkedIn:(https://www.linkedin.com/in/domingo-gonz%C3%A1lez-hernandez-73127a213/)
 
-## 🌟 Agradecimientos
+##  Agradecimientos
 
 - OpenAI por la API de GPT-4
 - Comunidad de React y Node.js
@@ -308,9 +308,9 @@ Chat con asistente IA
 
 ---
 
-⭐ Si este proyecto te ayudó, considera darle una estrella en GitHub!
+ Si este proyecto te ayudó, considera darle una estrella en GitHub!
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
