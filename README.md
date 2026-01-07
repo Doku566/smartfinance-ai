@@ -89,7 +89,7 @@ SmartFinance AI
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tuusuario/smartfinance-ai.git
+git clone https://github.com/Dokusan566/smartfinance-ai.git
 cd smartfinance-ai
 ```
 
